@@ -6,8 +6,8 @@ import { getPageMap } from 'nextra/page-map'
 import './globals.css'
 
 export const metadata: Metadata = {
-    // Define your metadata here
-    // For more information on metadata API, see: https://nextjs.org/docs/app/building-your-application/optimizing/metadata
+    title: 'Terminal Devtool Documentation',
+    description: 'Documentation for Terminal Devtool - your project description here',
 }
 
 const banner = <Banner storageKey="some-key">Nextra 4.0 is released 🎉</Banner>
